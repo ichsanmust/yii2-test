@@ -16,8 +16,12 @@
 			"url": "https://github.com/ichsanmust/yii2-test"
 		}
 	],
+	"minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0.7"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "~2.0"
