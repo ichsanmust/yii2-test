@@ -10,6 +10,12 @@
             "email": "ichsan.must10@gmail.com"
         }
     ],
+	"repositories":[
+		{
+			"type": "git",
+			"url": "https://github.com/ichsanmust/yii2-test"
+		}
+	],
     "require": {
         "yiisoft/yii2": "*"
     },
