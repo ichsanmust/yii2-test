@@ -9,6 +9,6 @@ class AutoloadExample extends \yii\base\Widget
 {
     public function run()
     {
-        return "Hello! Ichsan Must Test Extensions Update";
+        return "Hello! Ichsan Must Test Extensions Update Pisan";
     }
 }
