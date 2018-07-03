@@ -26,5 +26,7 @@
         "psr-4": {
             "ichsanmust\\test\\": ""
         }
-    }
+    },
+	"minimum-stability": "dev",
+    "prefer-stable": true
 }
