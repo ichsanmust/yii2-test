@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist ichsanmust/yii2-test "*"
+php composer.phar require --prefer-dist ichsanmust/yii2-test "@dev"
 ```
 
 or add
 
 ```
-"ichsanmust/yii2-test": "*"
+"ichsanmust/yii2-test": "@dev"
 ```
 
 to the require section of your `composer.json` file.
