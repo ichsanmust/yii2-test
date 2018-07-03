@@ -1,0 +1,21 @@
+{
+    "name": "ichsanmust/yii2-test",
+    "description": "Test Extensions",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ichsanmust",
+            "email": "ichsan.must10@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ichsanmust\\test\\": ""
+        }
+    }
+}
