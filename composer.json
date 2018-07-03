@@ -16,7 +16,6 @@
 			"url": "https://github.com/ichsanmust/yii2-test"
 		}
 	],
-	"minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
     },
